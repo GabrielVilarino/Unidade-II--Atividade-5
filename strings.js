@@ -149,7 +149,7 @@ function formataNome(nomeCompleto){
     return nomeFormatado
 }
 
-async function questao07() {
+async function questao08() {
     try {
         prompt.start();
 
@@ -163,4 +163,4 @@ async function questao07() {
     }
 }
 
-questao07()
+questao08()
